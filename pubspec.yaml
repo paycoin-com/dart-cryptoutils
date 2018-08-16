@@ -1,5 +1,5 @@
 name: cryptoutils
-version: 0.3.0
+version: 0.3.1
 sdk: ">=2.0.0-dev.61.0 <3.0.0"
 author: Steven Roose <stevenroose@gmail.com>
 description: A crypto utility library.
