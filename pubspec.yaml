@@ -4,6 +4,7 @@ author: Steven Roose <stevenroose@gmail.com>
 description: A crypto utility library.
 homepage: https://github.com/stevenroose/dart-cryptoutils
 dependencies:
+  sdk: '>=2.0.0-dev.61.0 <3.0.0'
   bignum: ">=0.1.0 <0.2.0"
   collection: ">=1.1.1 <2.0.0"
 
